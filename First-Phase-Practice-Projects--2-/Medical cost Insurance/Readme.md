@@ -1,4 +1,3 @@
-
 # Medical Cost Personal Insurance Project
 
 ## Introduction
