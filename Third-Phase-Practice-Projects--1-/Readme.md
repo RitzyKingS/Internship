@@ -16,7 +16,7 @@ This portfolio showcases three distinct machine learning projects, each with its
 - Chemical composition attributes (Sodium, Magnesium, Aluminum, Silicon, Potassium, Calcium, Barium, Iron)
 - Type of glass (class attribute)
 
-[More Details](#)
+[More Details](https://github.com/RitzyKingS/Internship/tree/main/Third-Phase-Practice-Projects--1-/Glass%20Identification%20Project)
 
 2. **Student Grades Prediction** - Regression Project
    - Project Description: In this project, student grades from various courses and the cumulative GPA (CGPA) were predicted based on their grades over four years of study. The focus is on regression analysis.
@@ -27,7 +27,7 @@ This portfolio showcases three distinct machine learning projects, each with its
 - CGPA
 - Course codes with corresponding grades
 
-[More Details](#)
+[More Details](https://github.com/RitzyKingS/Internship/tree/main/Third-Phase-Practice-Projects--1-/Student%20grades%20prediction%20Project)
 
 3. **Bank Marketing** - Classification Project
    - Project Description: The project involves predicting whether a client will subscribe to a term deposit (fixed deposit) in a Portuguese bank. This is a binary classification problem with a focus on marketing optimization.
@@ -39,7 +39,7 @@ This portfolio showcases three distinct machine learning projects, each with its
 - Historical data (pdays, previous contacts, previous campaign outcome)
 - Target variable (term deposit subscription)
 
-[More Details](#)
+[More Details](https://github.com/RitzyKingS/Internship/tree/main/Third-Phase-Practice-Projects--1-/Bank%20Marketing%20Prediction%20Project)
 
 ## Glass Identification Project Documentation
 
